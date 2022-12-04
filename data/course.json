@@ -1,0 +1,62 @@
+[
+    {
+      "_id": "638ce7b3519cb4ddf811e7a3",
+      "picture": "https://i.ibb.co/71Rdhtj/html-http-web-design-hompage-icon.jpg",
+      "courseName": "HTML",
+      "price": "786$",
+      "instructorName": "Curry",
+      "email": "currydotson@eyeris.com",
+      "rating": 4,
+      "phone": "+1 (926) 466-2378"
+    },
+    {
+      "_id": "638ce7b3491a054fcc68f0f9",
+      "picture": "https://i.ibb.co/Kmkv4gy/css3-logo-png-transparent.png",
+      "courseName": "CSS",
+      "price": "718$",
+      "instructorName": "Consuelo",
+      "email": "consuelolancaster@eyeris.com",
+      "rating": 7,
+      "phone": "+1 (996) 503-2489"
+    },
+    {
+      "_id": "638ce7b39cfa84555e7ebf04",
+      "picture": "https://i.ibb.co/dtBv7MB/Free-Courses-to-learn-Java-Script.jpg",
+      "courseName": "JavaScript",
+      "price": "869$",
+      "instructorName": "Crosby",
+      "email": "crosbyfrancis@eyeris.com",
+      "rating": 8,
+      "phone": "+1 (951) 422-3195"
+    },
+    {
+      "_id": "638ce7b3adfa7a05d981720c",
+      "picture": "https://i.ibb.co/Bcnq02j/Python-logo-notext-svg.png",
+      "courseName": "Python",
+      "price": "908$",
+      "instructorName": "Price",
+      "email": "priceanthony@eyeris.com",
+      "rating": 6,
+      "phone": "+1 (830) 440-2854"
+    },
+    {
+      "_id": "638ce7b3a848ecf379bc8cb8",
+      "picture": "https://i.ibb.co/qBvvV6Z/download.png",
+      "courseName": "React ",
+      "price": "874$",
+      "instructorName": "Shawn",
+      "email": "shawnrollins@eyeris.com",
+      "rating": 6,
+      "phone": "+1 (824) 441-3055"
+    },
+    {
+      "_id": "638ce7b33508d829e9f7c8df",
+      "picture": "https://i.ibb.co/qdBQn87/download-1.png",
+      "courseName": "GitHub",
+      "price": "799$",
+      "instructorName": "Douglas",
+      "email": "douglasguerra@eyeris.com",
+      "rating": 5,
+      "phone": "+1 (842) 440-2078"
+    }
+  ]
